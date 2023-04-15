@@ -1,0 +1,1 @@
+This is a minimalitic App that serves as a frontend for our Hardhat-Fund-Me project.
